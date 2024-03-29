@@ -1,7 +1,9 @@
-# Seattle-Weather
+# Seattle-Weather Project: Comparing Seattle and New York City's rainfall from January 2020 through January 2024
 DATA 3320 
 Project 1
 
-Using data science methodoloy to determine whether it rains more in Seattle, Washington than in New York City, NY. The purpose of this project is to use data to determine whether it rains more in Seattle versus New York City. This project uses the daily preciptation measure in both cities from the dates January 1st, 2020 through January 1st, 2024. These data sets were dowloaded from the National Centers for Environmental Information NOAA Climate DataLinks (an external site). The following data sets include seattle_rain.csv and ny_rain.csv
+This repository will house information about the Seattle-Weather project for the DATA 3320 class. This project will help us learn skills such as data cleaning and visualization.
+
+Using data science methodoloy, this project will help develop the skills of data cleaning and data visualization. Additionally, the project's purpose is to determine whether it rains more in Seattle, Washington than in New York City, NY. National Centers for Environmental Information NOAA Climate DataLinks has provided data on the daily preciptation measured in both cities from January 1st, 2020 through January 1st, 2024. The following data sets include seattle_rain.csv and ny_rain.csv provided in the repository.
 
 
