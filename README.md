@@ -1,4 +1,4 @@
-# Seattle-Weather Project: Comparing Seattle and New York City's rainfall from January 2020 through January 2024
+# Seattle-Weather: Comparing Seattle and New York City's rainfall between 2020 through 2024
 DATA 3320 
 Project 1
 
