@@ -23,5 +23,5 @@ The programs and packages used to perform the analysis are: Google Colab, pandas
 LinkedIn: https://www.linkedin.com/in/lauren-a-louie/
 
 ## License
-All are allowed to use my findings and analysis for personal or professional projects.
+All resources in this repository are allowed to use my findings and analysis for personal or professional projects.
 
